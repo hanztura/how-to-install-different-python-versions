@@ -4,7 +4,9 @@ You want to install a different python version than your default python? We will
 
 ## Background
 
-I have a default python install on my system and that is python3.5 and I want to try using python3.7.0. I don't want my python3.5 to be overriden since some of my existing projects are using it.
+I have a default python installed on my system, that is python3.5, and I want to try using python3.7.0.
+
+I don't want my python3.5 to be overriden since some of my existing projects are using it.
 
 Though this article is specifically using Python3.7.0, but the concept is the same on all other versions like Python3.6, Python3.5, Python2, etc.
 
@@ -42,6 +44,7 @@ Though this article is specifically using Python3.7.0, but the concept is the sa
 	* create a debug folder
 		```bash
 	  	mkdir debug
+		cd debug
 	  	```
 	* run:
 		```bash
@@ -69,5 +72,5 @@ Though this article is specifically using Python3.7.0, but the concept is the sa
 
 		```
 
-### Who I am?
-* I am Hanz Tura, I work as a Web Developer and Business Consultant at [X of Y Business and IT Services](https://www.xofytech.com) a company with a vission of "A world with better experience".
+### Who am I?
+* I am Hanz Tura, I work as a Web Developer and Business Consultant at [X of Y Business and IT Services](https://www.xofytech.com) a company with a vision of "A world with better experience".
